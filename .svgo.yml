@@ -46,3 +46,4 @@ plugins:
   - sortAttrs
   - removeTitle
   - removeDesc
+  - removeStylesAndClasses
